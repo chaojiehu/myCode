@@ -5,7 +5,7 @@ IE-MES制造执行系统，其定位于制造执行系统的Java开源版本，�
 
 系统搭建起来也非常简单： 
 1、使用readMe.txt中的数据库脚本刷一下MySQL数据库； 
-2、源码采用maven管理，可以直接导入eclipse，更改数据源配置即可run起来，
+2、源码采用maven管理，可以直接导入idea，更改数据源配置即可run起来，
 登录账号：admin，密码：123456。
 
 ![输入图片说明](https://gitee.com/uploads/images/2017/1222/135208_413ba572_901184.png "捕获.PNG")
